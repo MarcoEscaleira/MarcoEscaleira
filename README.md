@@ -42,7 +42,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="MarcoEscaleira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MarcoEscaleira&show_icons=true&hide_border=true" />
+  [<img align="left" alt="MarcoEscaleira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MarcoEscaleira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>:zap: Github Most Used Languages</summary>
+
+  [<img align="left" alt="MarcoEscaleira's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoescaleira&layout=compact&hide=php" />](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 [mindera]: https://mindera.com

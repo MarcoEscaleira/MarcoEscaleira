@@ -3,9 +3,8 @@
 ## I'm a Developer, Teacher and Student!
 
 - 🔭 I’m currently working on a amazing company [Mindera][mindera]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 &nbsp;2020 Goals: Contribute more to Open Source projects
+- 🌱 My speciality is React JS although I have worked in projects with React Native and different Angular versions
+- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love motorcycles
 
 ### Connect with me:

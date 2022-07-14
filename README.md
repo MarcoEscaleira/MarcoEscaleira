@@ -2,14 +2,13 @@
 
 ## I'm a Developer, Teacher and Student!
 
-- 🔭 I’m currently working on a amazing company [Mindera][mindera]!
+- 🔭 I’m currently working at [Beacon][beacon]!
 - 🌱 My speciality is React JS although I have worked in projects with React Native and different Angular projects
 - ⚡ Fun fact: I love motorcycles
 
 ### Connect with me:
 
-[<img align="left" alt="Marco Escaleira | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Marco Escaleira | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Marco Escaleira | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue" />][linkedin]
 
 <br />
 
@@ -51,6 +50,5 @@
 
 </details>
 
-[mindera]: https://mindera.com
-[instagram]: https://instagram.com/marcoescaleira14
+[beacon]: https://beacon.com/
 [linkedin]: https://linkedin.com/in/marco-escaleira00

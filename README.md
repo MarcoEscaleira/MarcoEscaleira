@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Teacher and Student!
 
-## From 🇵🇹 but living in the 🇬🇧
+### From 🇵🇹 but living in the 🇬🇧
 
 - 🔭 I’m currently working at [Beacon][beacon]!
 - 🌱 My speciality is React JS although I have worked in projects with React Native and different Angular projects

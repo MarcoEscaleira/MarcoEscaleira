@@ -2,13 +2,16 @@
 
 ## I'm a Developer, Teacher and Student!
 
+## From 🇵🇹 but living in the 🇬🇧
+
 - 🔭 I’m currently working at [Beacon][beacon]!
 - 🌱 My speciality is React JS although I have worked in projects with React Native and different Angular projects
+- 🚀 Micro frontends are awesome
 - ⚡ Fun fact: I love motorcycles
 
 ### Connect with me:
 
-[<img align="left" alt="Marco Escaleira | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue" />][linkedin]
+[<img align="left" alt="Marco Escaleira | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="blue" />][linkedin]
 
 <br />
 

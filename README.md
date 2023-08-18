@@ -1,4 +1,4 @@
-### Hi there, I'm Marco Escaleira - most known as Mini Marco 👋
+### Hi there, I'm Marco Escaleira 👋
 
 ## I'm a Developer, Teacher and Student!
 

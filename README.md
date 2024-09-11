@@ -4,10 +4,10 @@
 
 ### From 🇵🇹 but living in the 🇬🇧
 
-- 🔭 I’m currently working at [Beacon][beacon]!
+- 🔭 I’m currently working at [Yetipay](https://www.yetipay.me/)!
 - 🌱 My speciality is React JS although I have worked in projects with React Native and different Angular projects
 - 🚀 Micro frontends are awesome
-- ⚡ Fun fact: I love motorcycles
+- ⚡ Fun fact: I love motorcycles and Formula 1
 
 ### Connect with me:
 

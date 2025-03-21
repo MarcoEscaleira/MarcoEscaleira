@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco Escaleira 👋
 
-## I'm a Developer, Teacher and Student!
+## I'm a developer and teacher
 
 ### From 🇵🇹 but living in the 🇬🇧
 
